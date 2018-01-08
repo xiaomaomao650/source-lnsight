@@ -1,2 +1,2 @@
 # source-lnsight
-Tool
+this is a tool.
